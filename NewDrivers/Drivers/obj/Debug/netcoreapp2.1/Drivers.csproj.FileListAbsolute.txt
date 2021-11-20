@@ -1,0 +1,11 @@
+C:\Users\zubair.gundersen\Documents\Visual Studio 2017\Projects\Drivers\Drivers\bin\Debug\netcoreapp2.1\Drivers.deps.json
+C:\Users\zubair.gundersen\Documents\Visual Studio 2017\Projects\Drivers\Drivers\bin\Debug\netcoreapp2.1\Drivers.runtimeconfig.json
+C:\Users\zubair.gundersen\Documents\Visual Studio 2017\Projects\Drivers\Drivers\bin\Debug\netcoreapp2.1\Drivers.runtimeconfig.dev.json
+C:\Users\zubair.gundersen\Documents\Visual Studio 2017\Projects\Drivers\Drivers\bin\Debug\netcoreapp2.1\Drivers.dll
+C:\Users\zubair.gundersen\Documents\Visual Studio 2017\Projects\Drivers\Drivers\bin\Debug\netcoreapp2.1\Drivers.pdb
+C:\Users\zubair.gundersen\Documents\Visual Studio 2017\Projects\Drivers\Drivers\obj\Debug\netcoreapp2.1\Drivers.csprojAssemblyReference.cache
+C:\Users\zubair.gundersen\Documents\Visual Studio 2017\Projects\Drivers\Drivers\obj\Debug\netcoreapp2.1\Drivers.csproj.CoreCompileInputs.cache
+C:\Users\zubair.gundersen\Documents\Visual Studio 2017\Projects\Drivers\Drivers\obj\Debug\netcoreapp2.1\Drivers.AssemblyInfoInputs.cache
+C:\Users\zubair.gundersen\Documents\Visual Studio 2017\Projects\Drivers\Drivers\obj\Debug\netcoreapp2.1\Drivers.AssemblyInfo.cs
+C:\Users\zubair.gundersen\Documents\Visual Studio 2017\Projects\Drivers\Drivers\obj\Debug\netcoreapp2.1\Drivers.dll
+C:\Users\zubair.gundersen\Documents\Visual Studio 2017\Projects\Drivers\Drivers\obj\Debug\netcoreapp2.1\Drivers.pdb
